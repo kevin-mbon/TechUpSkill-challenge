@@ -1,0 +1,55 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    background-color: rgb(201, 201, 201);
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 1rem;
+    border-radius: 0.5rem;
+}
+
+h1 {
+    padding: 1rem;
+    font-size: 75px;
+}
+
+input {
+    margin: 0.5rem 1rem;
+}
+
+.textInput {
+    padding: 10px;
+    margin: 1rem;
+    border: 1px solid blue;
+    border-radius: 10px;
+    width:250px;
+}
+
+h1{
+    margin: 2rem 1rem;
+    color: black;
+    font-size: 500;
+    font-weight: 50;
+    margin-bottom: 1rem;
+}
+#root{
+    margin-top: 80px;
+}
+
+#root textarea{
+    color: blue;
+}
+
+.content{
+    margin-bottom: -100;
+}
